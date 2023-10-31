@@ -23,4 +23,7 @@ The purpose of this project is to calculate the average, median and standard dev
 * JavaScript
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* This project aimed to show the calculates of the mean, median and standard deviation of a stock data set of 9 weeks
+* The data source used was Statistics an OOP
+* the project was to question how accurate machine learning is when predicting stock price
+* The challenges with the project was converting list to strings with missing values.
